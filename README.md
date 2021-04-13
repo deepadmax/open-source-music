@@ -1,24 +1,13 @@
 # open-source-music
-A collection of completely open source music added by contributors and verified.
+A collection of completely open source music added by contributors and verified
 
-## How to Getdem:
-
-1- Go to your favorite terminal
-2- Install git if you don't already have it
-
-```
-ubuntu: sudo apt install git
-windows: you have to download it from the official git site
-```
-
-3- use the command ```git clone TODO: Add the link here```
-
-4- locate the folder ``music`` and you will find all the songs
+## Requirements
+All that is required is for you to install and be able to use Git at a very basic level.
+You can find an easy-to-follow guide [here](https://github.com/git-guides/install-git).
+And [another guide](https://github.com/git-guides/git-clone) for the cloning of the repository.
 
 
-# How to contribut:
-
-TODO: add instructions
-
-
-
+## How to contribute
+1. [Clone the repository](https://github.com/git-guides/git-clone).
+1. Locate the `music` directory within the repository. There you will find all added songs.
+2. TODO: Add more steps for instructions.
